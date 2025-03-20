@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm **Sunil Sharma**, a passionate **Developer, Data Analyst and Data Scientist*** with experience in ***Fastapi, Flask, Numpy, Pandas, ML(Sci-kit), sql, No-sql***.
 
 <!--
 **mrxsierra/mrxsierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
-
-I'm [Your Name], a passionate developer with experience in [Your Technologies].
 
 ## 🚀 Projects
 - [Project 1](https://github.com/<your-username>/<project1>): Description of Project 1.
@@ -28,5 +27,5 @@ I'm [Your Name], a passionate developer with experience in [Your Technologies].
 
 ## 📫 Contact
 - [Portfolio](https://<your-portfolio-site>)
-- [Email](mailto:<your-email@example.com>)
-- [LinkedIn](https://www.linkedin.com/in/<your-linkedin-profile>)
+- [Email](mailto:sunilsharma9@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/sunilsharma97/)
