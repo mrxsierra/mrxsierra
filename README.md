@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - [Understanding JavaScript Promises](https://<your-portfolio-site>/blog/understanding-javascript-promises)
 
 ## 📫 Contact
-- [Portfolio](https://<your-portfolio-site>)
-- [Email](mailto:sunilsharma9@outlook.com)
+- [Portfolio](https://mrxsierra.github.io/)
+- [Email](mailto:9.sunilsharma@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sunilsharma97/)
