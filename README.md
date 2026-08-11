@@ -8,7 +8,7 @@
 [![Twitter/X](https://img.shields.io/badge/Twitter-@mrxsierra-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrxsierra)
 [![Instagram](https://img.shields.io/badge/Instagram-@mrxsierra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrxsierra/)
 [![YouTube](https://img.shields.io/badge/YouTube-@mrxsierra-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mrxsierra)
-[![Email](https://img.shields.io/badge/Email-9.sunilsharma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9.sunilsharma@gmail.com)
+[![Send Direct Email](https://img.shields.io/badge/Contact-Send%20Direct%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9.sunilsharma@gmail.com)
 
 ---
 
@@ -67,4 +67,4 @@ DevOps & Tooling     : Docker, Git, GitHub Actions, Linux, VSCode, Jupyter
 - 🐍 **PyPI**: [mrxsierra](https://pypi.org/user/mrxsierra/)
 - 🐳 **DockerHub**: [mrxsierra](https://hub.docker.com/u/mrxsierra)
 - 🏆 **Kaggle**: [mrxsierra](https://kaggle.com/mrxsierra)
-- ✉️ **Email**: [9.sunilsharma@gmail.com](mailto:9.sunilsharma@gmail.com)
+- ✉️ **Contact**: [Send Direct Email](mailto:9.sunilsharma@gmail.com)
