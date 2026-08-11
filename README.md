@@ -6,7 +6,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrxsierra.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrxsierra.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sunilsharma97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilsharma97/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-@mrxsierra-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrxsierra)
-[![Kaggle](https://img.shields.io/badge/Kaggle-mrxsierra-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mrxsierra)
+[![Instagram](https://img.shields.io/badge/Instagram-@mrxsierra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrxsierra/)
+[![YouTube](https://img.shields.io/badge/YouTube-@mrxsierra-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mrxsierra)
 [![Email](https://img.shields.io/badge/Email-9.sunilsharma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9.sunilsharma@gmail.com)
 
 ---
@@ -53,11 +54,17 @@ DevOps & Tooling     : Docker, Git, GitHub Actions, Linux, VSCode, Jupyter
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect & Platform Network
 
 - 🌐 **Portfolio**: [mrxsierra.github.io](https://mrxsierra.github.io/)
 - 💼 **LinkedIn**: [in/sunilsharma97](https://www.linkedin.com/in/sunilsharma97/)
 - 🐦 **Twitter/X**: [@mrxsierra](https://x.com/mrxsierra)
-- 🏆 **Kaggle**: [mrxsierra](https://kaggle.com/mrxsierra)
+- 📸 **Instagram**: [@mrxsierra](https://www.instagram.com/mrxsierra/)
+- 🎬 **YouTube**: [@mrxsierra](https://www.youtube.com/@mrxsierra)
+- 🤖 **Reddit**: [u/mrxsierra](https://www.reddit.com/user/mrxsierra/)
+- ✍️ **Dev.to**: [mrxsierra](https://dev.to/mrxsierra)
+- 📝 **Medium**: [@mrxsierra](https://medium.com/@mrxsierra)
+- 🐍 **PyPI**: [mrxsierra](https://pypi.org/user/mrxsierra/)
 - 🐳 **DockerHub**: [mrxsierra](https://hub.docker.com/u/mrxsierra)
+- 🏆 **Kaggle**: [mrxsierra](https://kaggle.com/mrxsierra)
 - ✉️ **Email**: [9.sunilsharma@gmail.com](mailto:9.sunilsharma@gmail.com)
