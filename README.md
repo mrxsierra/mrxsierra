@@ -13,18 +13,17 @@
 
 ## ⚡ About Me
 
-- 🛠️ **Engineering Focus**: Full-Stack Web Development, AI Agent Systems, LLM Integration & Cloud Automation.
-- 🤖 **Agentic Systems**: Creator of **[znmd-os](https://github.com/mrxsierra/znmd-os)**—an autonomous AI operating system designed to manage developer workflows, social proof-of-work, and project velocity.
+- 🛠️ **Engineering Focus**: Full-Stack Web Development, AI Agent Architecture, LLM Workflows & Cloud Automation.
+- 🤖 **Agentic Systems**: Architecting autonomous AI workflows for task optimization, developer tools, and data automation.
 - 📊 **Data Science & ML**: Kaggle practitioner with expertise in predictive modeling, tabular machine learning, and scalable data pipelines.
 - 🌐 **Website & Blog**: Writing technical breakdowns and project post-mortems at **[mrxsierra.github.io](https://mrxsierra.github.io/)**.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Public Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[znmd-os](https://github.com/mrxsierra/znmd-os)** | Autonomous executive control plane & AI agent OS for daily micro-tasking, lead generation & proof-of-work automation. | Python, AI Agents, Cron | [Repo](https://github.com/mrxsierra/znmd-os) |
 | **[GSTN Predictive Binary Classification](https://github.com/mrxsierra/gstn_dsp_pbc)** | National-level hackathon finalist project — interpretable ML pipeline analyzing 900,000+ GST records. | Python, Scikit-learn, XGBoost | [Details](https://mrxsierra.github.io/projects/gstn-pbc/) |
 | **[Examination Management System DB](https://github.com/mrxsierra/ems-db)** | Production-ready database system supporting multi-RDBMS, Python automation, and Dockerized deployments. | PostgreSQL, MySQL, Docker | [Details](https://mrxsierra.github.io/projects/ems-db/) |
 | **[S3 Faker](https://github.com/mrxsierra/s3-faker)** | High-performance fake data generator with direct AWS S3 integration for cloud pipeline testing. | Python, AWS S3, Boto3 | [Details](https://mrxsierra.github.io/projects/s3-faker/) |
